@@ -10,4 +10,14 @@
     -ms-border-radius: 50%;
     -o-border-radius: 50%;
     border: 2px solid white;
+    cursor: pointer;
+    transition: .5;
+    -webkit-transition: .5;
+    -moz-transition: .5;
+    -ms-transition: .5;
+    -o-transition: .5;
+}
+.icon:hover{
+    background-color: white;
+    color:black;
 }
