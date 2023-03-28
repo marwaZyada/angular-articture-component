@@ -16,6 +16,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 import { FirstFooterComponent } from './Component/first-footer/first-footer.component';
 import { SecondFooterComponent } from './Component/second-footer/second-footer.component';
 import { ArrowComponent } from './Component/arrow/arrow.component';
+import { ImageComponent } from './Component/image/image.component';
 
 @NgModule({
   declarations: [
@@ -31,7 +32,8 @@ import { ArrowComponent } from './Component/arrow/arrow.component';
     UsableComponent,
     FirstFooterComponent,
     SecondFooterComponent,
-    ArrowComponent
+    ArrowComponent,
+    ImageComponent
   ],
   imports: [
     BrowserModule,

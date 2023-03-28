@@ -1,4 +1,4 @@
-/* .image{
+.image{
     position: relative;
     border-radius:10px ;
 
@@ -25,4 +25,4 @@
 }
 .image:hover .layer{
 opacity: 1;
-} */
+}
