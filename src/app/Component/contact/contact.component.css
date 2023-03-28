@@ -1,0 +1,27 @@
+input{
+    border: none;
+    border-radius: 0px;
+    border-bottom: 1px solid gray;
+    outline: none;
+    -webkit-border-radius: 0px;
+    -moz-border-radius: 0px;
+    -ms-border-radius: 0px;
+    -o-border-radius: 0px;
+}
+input:focus{
+    box-shadow: none;
+    border-color:unset ;
+}
+.form-floating>label{
+    padding: 0px;
+}
+.line{
+    border-bottom:1px solid gray;
+}
+.bg-green{
+    background-color:#1ABC9C;
+}
+
+.form-floating:focus >label{
+    color:yellow
+}

@@ -1,0 +1,31 @@
+span{
+    position: relative;
+  }
+/* span:after,
+span::before{
+    content:"";
+    position: absolute;
+    width: 80px;
+    height: 3px;
+    top:50%;
+    background-color: white;
+}
+
+span:after{
+    left:50px;
+}
+span::before{
+  
+    right: 50px;} */
+    .sec-after,
+.sec-before{
+    
+    /* position: absolute; */
+    width: 80px;
+    height: 3px;
+    /* top:50%; */
+    /* background-color: white; */
+}
+
+
+   

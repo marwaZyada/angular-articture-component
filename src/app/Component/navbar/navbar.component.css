@@ -1,0 +1,22 @@
+.navbar{
+    z-index: 999;
+}
+
+
+.bg-navy{
+    background-color: #2C3E50;
+}
+.nav-link{
+    color: #f8f9fa;
+}
+.nav-link:hover{
+    color: #1ABC9C;
+}
+.navbar-toggler{
+    border: none;
+    background-color:#1ABC9C ;
+}
+.navbar-toggler:focus{
+   outline: none;
+   box-shadow: none;
+}
