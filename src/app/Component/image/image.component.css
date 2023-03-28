@@ -26,3 +26,36 @@
 .image:hover .layer{
 opacity: 1;
 }
+.modal{
+    top:7%
+}
+.modal-content{
+    padding: 1% 20%;
+}
+.modal-header{
+    border-bottom: none;
+    display: block;
+}
+.modal-header i{
+    cursor: pointer;
+    position: absolute;
+    right: 30px;
+    top:15px;
+    color:rgb(26, 188, 156) ;
+    font-size: 2rem;
+}
+.modal-body img{
+height: 350px;
+}
+
+  .modal-footer{
+    border-top: none;
+    display: block;
+  }
+  
+ .bg-btn{
+    background-color:rgb(26, 188, 156) ;
+ }  
+ .btn:hover{
+    background-color: #159a80;
+ }    
