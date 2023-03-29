@@ -15,8 +15,14 @@
 .navbar-toggler{
     border: none;
     background-color:#1ABC9C ;
+    padding:2px 5px;
 }
 .navbar-toggler:focus{
    outline: none;
    box-shadow: none;
+}
+@media screen and (max-width:600px) {
+    .navbar-toggler span{
+        font-size: 12px;
+    } 
 }
